@@ -1,0 +1,2 @@
+# abadv.github.io
+newtech
